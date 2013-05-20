@@ -17,12 +17,12 @@ bilde??
 Problemet
 ---------
 
-    <script type="text/javascript" src=”/something/fjas.js"></script>
-    <script type="text/javascript" src=”/something/merfjas.js"></script>
-    <script type="text/javascript" src=”/something/fjas.js"></script>
-    <script type="text/javascript" src=”/something/fjas.js"></script>
-    <script type="text/javascript" src=”/something/fjas.js"></script>
-    <script type="text/javascript" src=”/something/fjas.js"></script>
+    <script type="..." src=”/js/jquery.js" />
+    <script type="..." src=”/js/underscore.js" />
+    <script type="..." src=”/js/backbone.js" />
+    <script type="..." src=”/js/my/cart.js" />
+    <script type="..." src=”/js/my/inventory.js" />
+    <script type="..." src=”/js/my/store.js" />
 
 </section>
  
@@ -31,26 +31,26 @@ Problemet
 Optimalisering / Konkatenering
 ------------------------------
 
-    <script type="text/javascript" src=”/something/fjas.js"></script>
-    <script type="text/javascript" src=”/something/merfjas.js"></script>
-    <script type="text/javascript" src=”/somethingelse/massefjas.js"></script>
-    <script type="text/javascript" src=”/something/fjas2.js"></script>
+    <script type="..." src=”/js/backbone.js" />
+    <script type="..." src=”/js/my/cart.js" />
+    <script type="..." src=”/js/my/inventory.js" />
+    <script type="..." src=”/js/my/store.js" />
     ...
 
 ### &darr; ###
 
-    <script type="text/javascript" src=”/something/all-fjas.js"></script>
+    <script type... src=”/js/my.min.js" />
 
 </section>
 
 <section>
 
-Require.js
-----------
+Require.js - moduler
+--------------------
 
 define()
 
-    // in my/store.js
+    // i js/my/store.js
     define(["my/cart", "my/inventory"],
         function(Cart, Inventory) {
             var Store = function(title) {
@@ -64,9 +64,16 @@ define()
         }
     );
 
+</section>
+
+<section>
+
+Require.js - main-script
+------------------------
+
 requirejs()
 
-    // in my/main.js
+    // i js/main.js
     requirejs(['jquery', 'canvas', 'my/store'],
     function   ($,        canvas,   Store) {
         var theStore = new Store();
@@ -75,10 +82,11 @@ requirejs()
 
 markup
 
-    // in storepage.html
-    ...
-    or
-    <script data-main="js/app.js" src="js/require.js"></script>
+    // i storepage.html
+    <script src=”js/require.js" type... />
+    <script src=”js/app.js" type... />
+    // ... eller ...
+    <script data-main="js/app.js" src="js/require.js" />
 
 
 </section>
@@ -89,11 +97,10 @@ markup
 Fordeler
 --------
 
-- (utsette lasting til du trenger det)
-- definere avhengigheter i hver js-fil
-- importere templates fra eksterne filer som strenger
-- 'innebygd' optimalisering/konkatenering/minifisering (r.js) og ferdig maven plugin (enkel/ kan progge egen)
-- ingen endringer i html-fila ved konkatenering (kun ett seed/main-script).
+- moduler som definerer sine egne avhengigheter
+- ingen endringer i markupen ved konkatenering
+- maven plugin for optimalisering
+- importere templates fra eksterne filer
 
 </section>
 
@@ -103,8 +110,8 @@ Fordeler
 Alternativer
 ------------
 
-- **Grails** resource plugin
 - **Rails** asset pipeline/ sprockets
+- **Grails** resource plugin
 - **Java** jawr, webutilities, combiner
 
 </section>
@@ -114,7 +121,11 @@ Alternativer
 Spørsmål?
 ----------
 
-Presentasjon laget med [reveal.js](http://lab.hakim.se/reveal-js/).
+![Confused Lolcat](/assets/lolcat_confused.jpg)
+
+
+<small>*(Presentasjon laget med [reveal.js](http://lab.hakim.se/reveal-js/)
+og [markdown](http://daringfireball.net/projects/markdown/).)*</small>
 
 </section>
 
