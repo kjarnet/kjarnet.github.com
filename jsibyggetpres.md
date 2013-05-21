@@ -6,9 +6,9 @@ description: Presentasjon om inkludering av JavaScript i Java web-applikasjoner.
 
 <section>
 
-JavaScript i bygget
+Javascript i bygget
 ===================
-bilde??
+![JavaScript Sabotage](/assets/sabotage_js_small.png)
 
 </section>
 
@@ -17,29 +17,34 @@ bilde??
 Problemet
 ---------
 
-    <script type="..." src=”/js/jquery.js" />
-    <script type="..." src=”/js/underscore.js" />
-    <script type="..." src=”/js/backbone.js" />
-    <script type="..." src=”/js/my/cart.js" />
-    <script type="..." src=”/js/my/inventory.js" />
-    <script type="..." src=”/js/my/store.js" />
+    <html>
+        <script type=".." src="/js/jquery.js"></script>
+        <script type=".." src="/js/underscore.js"></script>
+        <script type=".." src="/js/backbone.js"></script>
+        <script type=".." src="/js/my/cart.js"></script>
+        <script type=".." src="/js/my/inventory.js"></script>
+        <script type=".." src="/js/my/store.js"></script>
+        ..
+
 
 </section>
  
 <section>
 
-Optimalisering / Konkatenering
-------------------------------
+Optimalisering
+--------------
 
-    <script type="..." src=”/js/backbone.js" />
-    <script type="..." src=”/js/my/cart.js" />
-    <script type="..." src=”/js/my/inventory.js" />
-    <script type="..." src=”/js/my/store.js" />
+    <script type="..." src="/js/backbone.js"></script>
+    <script type="..." src="/js/my/cart.js"></script>
+    <script type="..." src="/js/my/inventory.js"></script>
+    <script type="..." src="/js/my/store.js"></script>
     ...
 
-### &darr; ###
+&darr;   
+Federate + Minify   
+&darr;
 
-    <script type... src=”/js/my.min.js" />
+    <script type... src="/js/my.min.js"></script>
 
 </section>
 
@@ -53,6 +58,7 @@ define()
     // i js/my/store.js
     define(["my/cart", "my/inventory"],
         function(Cart, Inventory) {
+
             var Store = function(title) {
               this.title = title;
               this.inventory = new Inventory();
@@ -61,6 +67,7 @@ define()
               return this.inventory.getLength();
             };
             return Store;
+
         }
     );
 
@@ -83,10 +90,12 @@ requirejs()
 markup
 
     // i storepage.html
-    <script src=”js/require.js" type... />
-    <script src=”js/app.js" type... />
-    // ... eller ...
-    <script data-main="js/app.js" src="js/require.js" />
+    <script src="js/require.js"></script>
+    <script src="js/main.js"></script>
+
+... eller ...
+
+    <script src="js/require.js" data-main="js/main.js"></script>
 
 
 </section>
@@ -97,10 +106,17 @@ markup
 Fordeler
 --------
 
-- moduler som definerer sine egne avhengigheter
-- ingen endringer i markupen ved konkatenering
-- maven plugin for optimalisering
-- importere templates fra eksterne filer
+- Definer avhengigheter sammen med modulen
+- Ingen endringer i markupen ved optimalisering
+- Maven plugin for optimalisering
+- Importere templates fra eksterne filer
+
+&nbsp;
+
+### Ulemper
+
+- Et ekstra bibliotek
+- Krever litt konfigurering
 
 </section>
 
@@ -110,9 +126,12 @@ Fordeler
 Alternativer
 ------------
 
-- **Rails** asset pipeline/ sprockets
-- **Grails** resource plugin
-- **Java** jawr, webutilities, combiner
+- **Rails**: asset pipeline/ sprockets
+- **Grails**: resource plugin
+- **Java**:
+[jawr](https://jawr.java.net/), 
+[webutilities](https://code.google.com/p/webutilities/), 
+[combiner](https://github.com/nzakas/combiner)
 
 </section>
 
