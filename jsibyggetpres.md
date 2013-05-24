@@ -10,6 +10,21 @@ Javascript i bygget
 ===================
 ![JavaScript Sabotage](/assets/sabotage_js_small.png)
 
+<small>
+
+(Themes:
+[default](?theme=default)
+[beige](?theme=beige)
+[moon](?theme=moon)
+[night](?theme=night)
+[serif](?theme=serif)
+[simple](?theme=simple)
+[sky](?theme=sky)
+[solarized](?theme=solarized)
+)
+
+</small>
+
 </section>
 
 <section>
