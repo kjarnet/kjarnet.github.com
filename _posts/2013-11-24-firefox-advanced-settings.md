@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Firefox Advanced Settings“
+title: "Firefox Advanced Settings"
 description: ""
 category: 
 tags: [firefox]
