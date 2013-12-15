@@ -14,7 +14,8 @@ This is tested on OSX 10.9 Maverick on an MacBook Pro Retina 11,1 (Late 2013)
 and Ubuntu 13.10 (Saucy Salamander), all 64 bit.
 
 1. Make room for Ubuntu by shrinking OSX partition using Disk Utility.
-1. Download Ubuntu 13.10 amd64+mac from [here](http://releases.ubuntu.com/saucy/).
+1. Download Ubuntu 13.10 amd64~~+mac~~ from [here](http://releases.ubuntu.com/saucy/)
+  (Note: the mac-image didn't work, instead the normal amd64 image gave two menu-entries in refind - one for bios and one for efi mode).
 2. Make a bootable usb drive.
 3. Download [rEFInd](http://www.rodsbooks.com/refind/installing.html).
 4. Install refind using `install.sh --alldrivers`.
