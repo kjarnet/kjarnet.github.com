@@ -13,30 +13,43 @@ Dualbooting OSX and Ubuntu
 This is tested on OSX 10.9 Maverick on an MacBook Pro Retina 11,1 (Late 2013)
 and Ubuntu 13.10 (Saucy Salamander), all 64 bit.
 
+**WIP** I have not yet got this to work.
+Ubuntu seems to install fine and shows up in the refind menu,
+but halts somewhere before starting X.
+Also, when booting with the "quiet" option,
+it seems to hang already in refind.
+
+The MacBook Pro 11,1 (and probably later ones),
+seems to now support [dual bios uefi boot images](http://askubuntu.com/a/40480),
+eliminating the need for the "amd64+mac" ubuntu image.
+This may very well mean I could drop rEFInd and just use GRUB2,
+but then I'd have to delete the existing EFI-partition,
+which I dare not do before I find a report from someone else successfully doing it.
+
 1. Make room for Ubuntu by shrinking OSX partition using Disk Utility.
-1. Download Ubuntu 13.10 amd64~~+mac~~ from [here](http://releases.ubuntu.com/saucy/)
+2. Download Ubuntu 13.10 amd64~~+mac~~ from [here](http://releases.ubuntu.com/saucy/)
   (Note: the mac-image didn't work, instead the normal amd64 image gave two menu-entries in refind - one for bios and one for efi mode).
-2. Make a bootable usb drive.
-3. Download [rEFInd](http://www.rodsbooks.com/refind/installing.html).
-4. Install refind using `install.sh --alldrivers`.
-5. Restart twice to verify the rEFInd menu appears.
-6. Boot from the Ubuntu USB by holding "alt" during boot.
-7. Choose "Try Ubuntu" from the boot menu.
-8. Run `ubiquity -b` from a terminal and install. DON'T restart yet.
-9. Find the UUID of the root partition of the newly install Ubuntu with `sudo blkid /dev/sda*`.
-10. Add a file `refind_linux.conf` to the boot partition of the new install and add this (replacing uuid and dev):
+3. Make a bootable usb drive.
+4. Download [rEFInd](http://www.rodsbooks.com/refind/installing.html).
+5. Install refind using `install.sh --alldrivers`.
+6. Restart twice to verify the rEFInd menu appears.
+7. Boot from the Ubuntu USB by holding "alt" during boot.
+8. Choose "Try Ubuntu" from the boot menu.
+9. Run `ubiquity -b` from a terminal and install. DON'T restart yet.
+10. Find the UUID of the root partition of the newly install Ubuntu with `sudo blkid /dev/sda*`.
+11. Add a file `refind_linux.conf` to the boot partition of the new install and add this (replacing uuid and dev):
 
         "Boot with standard options" "root=/dev/sda3 ro quiet splash vt.handoff=7"  
         "Boot to single-user mode"   "root=UUID=1cd95082-bce0-494c-a290-d2e642dd82b7 ro single"  
         "Boot with minimal options"  "root=UUID=1cd95082-bce0-494c-a290-d2e642dd82b7 ro"  
 
     Alternatively try the `mkrlconf.sh` script that comes with refind.
-11. Now restart.
+12. Now restart.
 
 - - -
 Sources:
 
-The best instructions I could find are in
+The best instructions I could find are on
 [this blog](http://blog.kylebarlow.com/2013/05/installing-ubuntu-1304-raring-ringtail.html)
 (which, again is based on
 [this blog](http://randomtutor.blogspot.no/2013/02/installing-ubuntu-1304-on-retina.html)).
