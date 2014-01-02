@@ -20,10 +20,12 @@ Misc
     and then Wimp manually (click "Trenger du hjelp?"))
  - Install [Flash](http://get.adobe.com/flashplayer/)
  - Install wmv player, e.g. [Flip4Mac](http://www.telestream.net/flip4mac/)
+ - Install [Homebrew](http://brew.sh/)
 
 Java
 ----
 
  - Install JDK 7 from [Oracle](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
  - Install JRE 6 from [Apple](http://support.apple.com/kb/dl1572)
+ - Install [Maven via homebrew](http://stackoverflow.com/a/19564500)
 
