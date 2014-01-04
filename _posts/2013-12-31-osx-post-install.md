@@ -21,6 +21,8 @@ Misc
  - Install [Flash](http://get.adobe.com/flashplayer/)
  - Install wmv player, e.g. [Flip4Mac](http://www.telestream.net/flip4mac/)
  - Install [Homebrew](http://brew.sh/)
+ - Set zsh as default shell: `chsh -s /bin/zsh $USER`
+ - Clone and install dotfiles
 
 Java
 ----
