@@ -42,6 +42,17 @@ This may very well mean I could drop rEFInd and just use GRUB2,
 but then I'd have to delete the existing EFI-partition,
 which I dare not do before I find a report from someone else successfully doing it.
 
+Restoring rEFInd
+----------------
+
+The refind menu can disappear after an osx update.
+If this happens, just run:
+
+    sudo bless --setBoot --folder /efi/refind --file /efi/refind/refind_x64.efi
+
+and it should reappear on next boot. ([source](https://bbs.archlinux.org/viewtopic.php?id=165282))
+However, I haven't been able to boot ubuntu after this :(
+
 - - -
 Sources:
 

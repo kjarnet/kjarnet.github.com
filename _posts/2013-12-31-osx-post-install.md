@@ -23,6 +23,8 @@ Misc
  - Install [Homebrew](http://brew.sh/)
  - Set zsh as default shell: `chsh -s /bin/zsh $USER`
  - Clone and install dotfiles
+ - Set environment variables in `/etc/launchd.conf`to make them available to gui-applications.
+    See [stackoverflow](http://stackoverflow.com/a/588442).
 
 Java
 ----
