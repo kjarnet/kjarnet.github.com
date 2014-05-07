@@ -26,8 +26,8 @@ where it hangs indefinitely.
     2. Execute installer with library-path: `LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu ./AdobeAIRInstaller.bin`
     3. Alternatively symlink the needed libraries:
     
-        sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0 /usr/lib/libgnome-keyring.so.0
-        sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0.2.0 /usr/lib/libgnome-keyring.so.0.2.0
+            sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0 /usr/lib/libgnome-keyring.so.0
+            sudo ln -s /usr/lib/x86_64-linux-gnu/libgnome-keyring.so.0.2.0 /usr/lib/libgnome-keyring.so.0.2.0
 
         You should probably delete the symlinks after installing.
 
