@@ -21,8 +21,9 @@ This is how you can assign a global keyboard-shortcut to play/pause spotify in K
     * Function: "org.mpris.MediaPlayer2.Player.PlayPause"
 
 Sources:
+
 * [Kubuntuforums thread](https://www.kubuntuforums.net/showthread.php?58197-How-To-Get-Global-Media-Shortcuts-in-KDE&p=303642&viewfull=1#post303642)
 * [Mabishu blog post](http://www.mabishu.com/blog/2010/11/15/playing-with-d-bus-interface-of-spotify-for-linux/)
 
-Attached an export of the Group: spotifyremote.khotkeys.
+Attached an export of the Group: [spotifyremote.khotkeys](/spotifyremote.khotkeys).
 
