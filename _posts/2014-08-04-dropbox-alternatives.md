@@ -2,7 +2,7 @@
 layout: post
 title: "Dropbox Alternatives"
 description: ""
-category: 
+category: misc
 tags: [comparison, dropbox, bittorrent sync]
 ---
 {% include JB/setup %}

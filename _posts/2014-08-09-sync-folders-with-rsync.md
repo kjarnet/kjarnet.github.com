@@ -2,7 +2,7 @@
 layout: post
 title: "Sync folders with rsync"
 description: ""
-category: 
+category: how-tos
 tags: [rsync]
 ---
 {% include JB/setup %}

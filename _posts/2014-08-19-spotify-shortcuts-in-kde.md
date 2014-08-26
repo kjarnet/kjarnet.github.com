@@ -2,8 +2,8 @@
 layout: post
 title: "Spotify shortcuts in KDE"
 description: ""
-category: 
-tags: [KDE, spotify]
+category: how-tos
+tags: [kde, spotify]
 ---
 {% include JB/setup %}
 
