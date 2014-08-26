@@ -2,7 +2,7 @@
 layout: post
 title: "Install Adobe Air"
 description: ""
-category: 
+category: how-tos
 tags: [AdobeAir, Wimp]
 ---
 {% include JB/setup %}

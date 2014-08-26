@@ -2,8 +2,8 @@
 layout: post
 title: "Wiping a harddrive"
 description: ""
-category: 
-tags: []
+category: how-tos
+tags: [harddrive, hardware]
 ---
 {% include JB/setup %}
 

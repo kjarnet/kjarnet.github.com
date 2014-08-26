@@ -2,7 +2,7 @@
 layout: post
 title: "Virtualbox Setup"
 description: "Some gotchas I've encountered when setting up a vm in Virtualbox"
-category: technotes
+category: how-tos
 tags: [virtualbox]
 ---
 {% include JB/setup %}

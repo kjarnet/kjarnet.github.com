@@ -2,7 +2,7 @@
 layout: post
 title: "Chromium Beta"
 description: ""
-category: 
+category: how-tos
 tags: []
 ---
 {% include JB/setup %}

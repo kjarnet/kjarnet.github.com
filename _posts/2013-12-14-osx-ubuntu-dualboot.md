@@ -2,7 +2,7 @@
 layout: post
 title: "OSX Ubuntu Dualboot"
 description: ""
-category: 
+category: how-tos
 tags: []
 ---
 {% include JB/setup %}

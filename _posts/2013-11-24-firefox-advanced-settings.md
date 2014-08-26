@@ -2,7 +2,7 @@
 layout: post
 title: "Firefox Advanced Settings"
 description: ""
-category: 
+category: how-tos
 tags: [firefox]
 ---
 {% include JB/setup %}

@@ -2,8 +2,8 @@
 layout: post
 title: "Ubuntu on Mac Post Install"
 description: ""
-category: 
-tags: []
+category: how-tos
+tags: [ubuntu, macbook pro, hardware]
 ---
 {% include JB/setup %}
 

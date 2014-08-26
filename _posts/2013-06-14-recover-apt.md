@@ -2,7 +2,7 @@
 layout: post
 title: "Recover Apt"
 description: "Recovering apt after an upgrade went to H***"
-category: technotes
+category: how-tos
 tags: [apt]
 ---
 {% include JB/setup %}

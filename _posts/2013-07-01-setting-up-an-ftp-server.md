@@ -2,7 +2,7 @@
 layout: post
 title: "Setting up an FTP server"
 description: "Setting up a secure FTP server on ubuntu"
-category: technotes
+category: how-tos
 tags: [ftp, ubuntu 13.04]
 ---
 {% include JB/setup %}

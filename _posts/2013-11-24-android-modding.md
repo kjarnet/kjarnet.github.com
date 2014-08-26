@@ -2,7 +2,7 @@
 layout: post
 title: "Android Modding"
 description: ""
-category: 
+category: how-tos
 tags: [Android]
 ---
 {% include JB/setup %}

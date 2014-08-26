@@ -2,8 +2,8 @@
 layout: post
 title: "Locale Issues in (K)ubuntu"
 description: ""
-category: 
-tags: [Ubuntu, Locale]
+category: how-tos
+tags: [ubuntu, locale]
 ---
 {% include JB/setup %}
 

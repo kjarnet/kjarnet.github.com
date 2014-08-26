@@ -2,8 +2,8 @@
 layout: post
 title: "OSX Post Install"
 description: ""
-category: 
-tags: []
+category: how-tos
+tags: [osx, install]
 ---
 {% include JB/setup %}
 

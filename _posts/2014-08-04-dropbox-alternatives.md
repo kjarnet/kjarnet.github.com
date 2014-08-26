@@ -3,7 +3,7 @@ layout: post
 title: "Dropbox Alternatives"
 description: ""
 category: 
-tags: [Dropbox, BitTorrent Sync]
+tags: [comparison, dropbox, bittorrent sync]
 ---
 {% include JB/setup %}
 As [Condoleezza Rice](http://www.drop-dropbox.com/) is now the head of Dropbox
