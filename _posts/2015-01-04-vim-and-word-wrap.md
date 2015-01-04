@@ -42,3 +42,10 @@ that are saved with the document,
 while "soft linebreaks" are when the editor dynamically wraps the text
 to fit the width of the window.
 
+
+Sources:
+_ _ _
+
+* [http://vim.wikia.com/wiki/Word\_wrap\_without\_line\_breaks]
+
+
