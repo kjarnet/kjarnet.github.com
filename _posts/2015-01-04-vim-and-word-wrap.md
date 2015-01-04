@@ -46,6 +46,6 @@ to fit the width of the window.
 Sources:
 _ _ _
 
-* [http://vim.wikia.com/wiki/Word\_wrap\_without\_line\_breaks]
+* [http://vim.wikia.com/wiki/Word\_wrap\_without\_line\_breaks](http://vim.wikia.com/wiki/Word_wrap_without_line_breaks)
 
 
