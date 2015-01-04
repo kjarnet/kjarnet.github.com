@@ -47,5 +47,6 @@ Sources:
 _ _ _
 
 * [http://vim.wikia.com/wiki/Word\_wrap\_without\_line\_breaks](http://vim.wikia.com/wiki/Word_wrap_without_line_breaks)
+* [http://blog.ezyang.com/2010/03/vim-textwidth/](http://blog.ezyang.com/2010/03/vim-textwidth/)
 
 
