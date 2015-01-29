@@ -82,6 +82,16 @@ jumping around when I try to click
 and suddenly not registering anything for a second or so.
 Anyone have a better set-up, please share!
 
+There are some related bug-reports that I haven't tried out yet:
+
+* [https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-input-synaptics/+bug/1042069](https://bugs.launchpad.net/ubuntu/+source/xserver-xorg-input-synaptics/+bug/1042069)
+
+Note also that I've tried adding settings to a new file
+`/etc/X11/xorg.conf.d/50-synaptics.conf`
+which didn't make any difference,
+but I've not tried changing the existing file
+`/usr/share/X11/xorg.conf.d/50-synaptics.conf`.
+
 Source:
 _______
 
