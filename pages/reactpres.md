@@ -82,9 +82,17 @@ Men først....
 
         });
 
-* I React bygger du opp applikasjonen din av komponenter/components.
-* Hierarki
-* State vs. props.
+* I React bygger du opp applikasjonen din av komponenter/components
+  som du kan kombinere og sette sammen til mer avanserte komponenter.
+  I eksempelet er TodoApp en komponent som
+  bygger på en samling TodoItem komponenter.
+* Hver komponent holder data i
+  props og
+  state.
+  State er komponentens interne tilstand
+  og endres kun av komponenten selv.
+  Props skal derimot _ikke_ endres av komponenten selv
+  men endres gjerne ifm. at foreldre-komponenten rendres.
 * Lifecycle hooks
 
 JSX
