@@ -22,7 +22,7 @@ Hva React er/ ikke er
 * Opererer med data som rene javascript-objekter,
   har ingen begrep om "modell",
   ingen støtte for kommunikasjon med server (Ajax)
-  og ingen data-binding
+  og ingen automatisk data-binding
   (synkronisering mellom view og modell).
   For annet enn trivielle applikasjoner
   anbefales andre biblioteker til dette,
@@ -93,7 +93,9 @@ Men først....
   og endres kun av komponenten selv.
   Props skal derimot _ikke_ endres av komponenten selv
   men endres gjerne ifm. at foreldre-komponenten rendres.
-* Lifecycle hooks
+* getInitialState() er en funksjon for å sette evt. initielle verdier på staten.
+  render() er selvfølgelig metoden som skal rendre komponenten til (Virtual) DOM.
+  I tillegg har man tilgang på flere Lifecycle hooks
 
 JSX
 ---
@@ -152,6 +154,3 @@ Optimalisering
 * Pure components.
 * Immutable.js / immutable state.
   Det er her jeg synes react begynner å bli interessant :)
-
-
-
