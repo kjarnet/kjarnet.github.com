@@ -69,15 +69,7 @@ Men først....
             },
 
             render: function () {
-                var todoItems = this.props.todos.map(
-                    function (todo) {
-                        return TodoItem({key: todo.id, todo: todo});
-                });
-
-                return d.div(
-                    {className: 'container'},
-                    todoItems
-                );
+                // ...
             }
 
         });
@@ -93,9 +85,62 @@ Men først....
   og endres kun av komponenten selv.
   Props skal derimot _ikke_ endres av komponenten selv
   men endres gjerne ifm. at foreldre-komponenten rendres.
-* getInitialState() er en funksjon for å sette evt. initielle verdier på staten.
-  render() er selvfølgelig metoden som skal rendre komponenten til (Virtual) DOM.
-  I tillegg har man tilgang på flere Lifecycle hooks
+  Du kan egentlig tenke på en komponent
+  som en funksjon av props - 
+  du sender props inn,
+  og får en rendret (, interaktiv) komponent ut.
+
+* Koden:
+  getInitialState() er en funksjon for å sette evt. initielle verdier på staten.
+  render() er selvfølgelig metoden som skal rendre komponenten til (Virtual) DOM - 
+  Denne kommer vi tilbake til.
+  I tillegg har man tilgang på flere
+  [Lifecycle hooks](https://facebook.github.io/react/docs/component-specs.html#lifecycle-methods)
+
+Render og events
+----------------
+
+    render: function () {
+        var todoItems = this.props.todos.map(
+            function (todo) {
+                return TodoItem({key: todo.id, todo: todo});
+        });
+
+        return d.div(
+            {className: 'container'},
+            todoItems,
+            d.button({onClick: this.handleClick}, "Klikk meg")
+        );
+    }
+
+* I render bruker du komponentens props,
+  og evt. state,
+  og bygger et (virtuelt) DOM-tre.
+* Ofte bygger du her på andre komponenter
+  for å lage en mer kompleks komponent.
+* Interaktive komponenter får du
+  ved å binde event-handlere til
+  (virtuelle) DOM-elementer med en onXxx-attributt.
+  Dette er det nok noen som kjenner igjen som et anti-pattern,
+  men det er _ikke_ det samme som
+  å bruke onClick-attributtet på et vanlig DOM element,
+  for bak kulissene er det event delegation som brukes.
+  Det kan diskuteres om det er riktig "separation of concerns",
+  men React argumenterer med at ...?
+
+Forms / bruker input
+--------------------
+
+* Uncontrolled
+  * defaultValue
+  * ref
+  * Les input-ens value med `this.refs.helloTo.getDOMNode().value;`
+  * Kun trivielle forms.
+* Controlled
+  * value
+  * onChange
+  * Komponentens interne state følger input-ens value.
+
 
 JSX
 ---
@@ -150,7 +195,7 @@ Optimalisering
   render- og sammenlikningsoperasjoner.
   Heldigvis har React også et triks eller to i ermet
   for å optimalisere dette.
-* shouldComponentUpdate?
-* Pure components.
+* shouldComponentUpdate(nextProps, nextState) = true
+* [Pure components](https://facebook.github.io/react/docs/pure-render-mixin.html).
 * Immutable.js / immutable state.
   Det er her jeg synes react begynner å bli interessant :)
