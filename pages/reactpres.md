@@ -199,3 +199,29 @@ Optimalisering
 * [Pure components](https://facebook.github.io/react/docs/pure-render-mixin.html).
 * Immutable.js / immutable state.
   Det er her jeg synes react begynner å bli interessant :)
+
+Arkitektur
+----------
+
+* Som nevnt har React et veldig begrenset ansvarsområde,
+  og gjør seg best sammen med andre biblioteker.
+  F.eks. er det vanlig å bruke jQuery til ajax,
+  og mange bruker Backbone til bl.a.
+  struktur og kommunikasjon mellom komponenter.
+  Men et annet,
+  kanskje mer interessant,
+  alternativ til Backbone
+  er Flux.
+
+Flux
+----
+
+* [Overview](https://facebook.github.io/flux/docs/overview.html)
+
+Reflux
+------
+
+* [GitHub](https://github.com/reflux/refluxjs)
+
+
+
