@@ -7,7 +7,7 @@ Mostly contains technical notes that may or may not be of use to others.
 
 Server
 ------
-To run local server: `gem install jekyll redcarpet` and then `jekyll server -w`.
+To run local server: `bundle install` and then `jekyll server -w`.
 
 Write posts and pages
 ---------------------
