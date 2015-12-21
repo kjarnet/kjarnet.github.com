@@ -7,7 +7,7 @@ tags: [spotify]
 ---
 {% include JB/setup %}
 
-Tested in Kubuntu 15.04
+Tested in Kubuntu 15.04 and 15.10
 
 Spotify has an official client developed in qt, available via repo:
 
@@ -27,7 +27,7 @@ Spotify has an official client developed in qt, available via repo:
 
     sudo apt-get install spotify-client
 
-However, this depends on libgcrypt11, which in ubuntu 15.04 is replaced by libgcrypt20.
+However, this depends on libgcrypt11, which in ubuntu 15.04 and 15.10 is replaced by libgcrypt20.
 If you try to run spotify, you'll get the following error message:
 
     spotify: error while loading shared libraries: libgcrypt.so.11: cannot open shared object file: No such file or directory
