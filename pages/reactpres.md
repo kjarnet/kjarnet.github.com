@@ -224,4 +224,13 @@ Reflux
 * [GitHub](https://github.com/reflux/refluxjs)
 
 
+Notes
+-----
+
+* Understanding/thinking _the React way_ 
+  is all about embracing some core rules:
+
+  * Data flows down the tree
+  * Limit/ envelop internal state
+
 
