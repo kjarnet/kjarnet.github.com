@@ -3,8 +3,9 @@ layout: presentation
 title: JavaScript i bygget
 description: Presentasjon om inkludering av JavaScript i Java web-applikasjoner.
 ---
+{% include JB/setup %}
 
-<section>
+<section markdown="block">
 
 Javascript i bygget
 ===================
@@ -27,7 +28,7 @@ Javascript i bygget
 
 </section>
 
-<section>
+<section markdown="block">
 
 Problemet
 ---------
@@ -55,7 +56,7 @@ Problemet
 </section>
 
  
-<section>
+<section markdown="block">
 
 Optimalisering
 --------------
@@ -87,7 +88,7 @@ Federate + Minify
 
 </section>
 
-<section>
+<section markdown="block">
 
 Require.js - moduler
 --------------------
@@ -122,7 +123,7 @@ define()
 </aside>
 </section>
 
-<section>
+<section markdown="block">
 
 Require.js - main-script
 ------------------------
@@ -158,7 +159,7 @@ markup
 </section>
 
 
-<section>
+<section markdown="block">
 
 Fordeler
 --------
@@ -193,7 +194,7 @@ Fordeler
 </section>
 
 
-<section>
+<section markdown="block">
 
 Alternativer
 ------------
@@ -221,7 +222,7 @@ Alternativer
 </aside>
 </section>
 
-<section>
+<section markdown="block">
 
 Spørsmål?
 ----------

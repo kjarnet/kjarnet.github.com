@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "React.js"
-description: "presentasjon for CapraCon"
+description: "Notater til presentasjon om React.js"
 ---
 {% include JB/setup %}
 
@@ -222,15 +222,5 @@ Reflux
 ------
 
 * [GitHub](https://github.com/reflux/refluxjs)
-
-
-Notes
------
-
-* Understanding/thinking _the React way_ 
-  is all about embracing some core rules:
-
-  * Data flows down the tree
-  * Limit/ envelop internal state
 
 
