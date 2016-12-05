@@ -11,6 +11,7 @@ Carl Barks Andeby
 Her har jeg samlet innholdsfortegnelsene for alle bøkene
 i Egmonts fantastiske serie [Carl Barks' Andeby](http://carlbarks.no) ([facebook](https://www.facebook.com/CarlBarksAndeby))
 (under arbeid).
+Jeg har merket mine personlige favoritter med :gem:.
 
 Mysteriet i Surklemarksumpene (1944-45)
 ---------------------------------------
@@ -37,9 +38,10 @@ Mysteriet i Surklemarksumpene (1944-45)
 - Donald Duck i Styggestupet
 - Villfolen
 
-Tore fra Singapore (1945-1946) (Ikke utkommet enda)
+Tore fra Singapore (1945-1946)
 ------------------------------
 
+- Tore fra Singapore
 - Donald Duck får radarøyne
 - Detektivene
 - Vannskikonkurransen
@@ -49,17 +51,38 @@ Tore fra Singapore (1945-1946) (Ikke utkommet enda)
 - Nyttårsforsett
 - Pilkeeksperten
 - Tre små jetmototer
-- Brannstifteren
-- Elvens skrekk
+- Brannstifteren :gem:
+- Elvens skrekk :gem: :gem:
 - Sel-som opplevelse
 - Dragebyggeren
 - Muskelmirakler
 - Den kvikkeste
 - Fusk og fristelser
 - De glade vandrere
-- Gullfinnneren
+- Gullfinnneren :gem:
 - Regningsbudet
 - Kalkunmiddagen
+
+På eventyr i Australia (1946-47) (Ikke utkommet enda)
+-----------------------------------------------------
+
+- På eventyr i Australia :gem:
+- Nissen på stormbesøk
+- Maharaja Donald
+- Stillefjell
+- Katteelskeren
+- Donald Ducks atombombe
+- Billerabalder
+- Donald Duck kjøper pengeskap
+- Piknikforviklinger
+- Vulkandalen
+- Donald Duck steller i hagen
+- Skattekartet
+- Tryllekunstneren
+- En ukes hvile
+- Altfor villige hjelpere
+- Vrakets hemmelighet
+
 
 Tralla La (1953-54)
 -------------------
@@ -453,8 +476,6 @@ Skjønnhetsspesialisten (1966-67)
 - Havfruedronningen
 - Kvegkongekvaler
 - Skjebnediamanter
-
-
 
 
 
