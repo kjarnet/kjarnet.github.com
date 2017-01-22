@@ -13,6 +13,9 @@ i Egmonts fantastiske serie [Carl Barks' Andeby](http://carlbarks.no) ([facebook
 (under arbeid).
 Jeg har merket mine personlige favoritter med :gem:.
 
+:gem: Favoritter   
+:mortar_board: Petter Smart
+
 Mysteriet i Surklemarksumpene (1944-45)
 ---------------------------------------
 
@@ -63,10 +66,10 @@ Tore fra Singapore (1945-1946)
 - Regningsbudet
 - Kalkunmiddagen
 
-På eventyr i Australia (1946-47) (Ikke utkommet enda)
------------------------------------------------------
+På eventyr i Australia (1946-47)
+--------------------------------
 
-- På eventyr i Australia :gem:
+- På eventyr i Australia :gem: :gem:
 - Nissen på stormbesøk
 - Maharaja Donald
 - Stillefjell
@@ -75,13 +78,33 @@ På eventyr i Australia (1946-47) (Ikke utkommet enda)
 - Billerabalder
 - Donald Duck kjøper pengeskap
 - Piknikforviklinger
-- Vulkandalen
+- Vulkandalen :gem: :gem:
 - Donald Duck steller i hagen
 - Skattekartet
 - Tryllekunstneren
 - En ukes hvile
 - Altfor villige hjelpere
-- Vrakets hemmelighet
+- Vrakets hemmelighet :gem:
+
+Det gamle slottets hemmelighet (1947-48) (Ikke utkommet enda)
+----------------------------------------
+
+- Det gamle slottets hemmelighet
+- Strykertrioen
+- Donald Duck som brannmann
+- Englebarna
+- Jul på Bjørnefjell
+- Kalkunmiddagen
+- Isbaderen
+- Nattevakten
+- Sommerfugljakten
+- Telegrafbudene
+- Apestreker
+- Barnas venn
+- Tur-retur månen
+- Kystens våkneste vakt
+- Jakt etter penger
+- Donald som golfmester
 
 
 Tralla La (1953-54)
