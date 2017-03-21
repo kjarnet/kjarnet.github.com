@@ -86,7 +86,7 @@ På eventyr i Australia (1946-47)
 - Altfor villige hjelpere
 - Vrakets hemmelighet :gem:
 
-Det gamle slottets hemmelighet (1947-48) (Ikke utkommet enda)
+Det gamle slottets hemmelighet (1947-48)
 ----------------------------------------
 
 - Det gamle slottets hemmelighet
@@ -96,15 +96,34 @@ Det gamle slottets hemmelighet (1947-48) (Ikke utkommet enda)
 - Jul på Bjørnefjell
 - Kalkunmiddagen
 - Isbaderen
-- Nattevakten
+- Nattevakten :gem:
 - Sommerfugljakten
 - Telegrafbudene
 - Apestreker
 - Barnas venn
-- Tur-retur månen
+- Tur-retur månen :gem:
 - Kystens våkneste vakt
 - Jakt etter penger
 - Donald som golfmester
+
+Eggmysteriet (1948-49) (Ikke utkommet enda)
+----------------------
+
+- Eggmysteriet :gem: :gem:
+- Sheriffen
+- Du gylne, glitrende tre :gem:
+- Perler til Dolly
+- Donald Duck på revejakt
+- Spørrekonkurransen :gem:
+- Donald Duck i lekeland
+- Nyttig lærdom
+- Redselsfulle mareritt
+- Hestetyven
+- Rubinjakten
+- Ping-pong-ballene
+- Ekko, vil du svare meg? :gem:
+- Kjæledegger
+- Sterke-Tor
 
 
 Tralla La (1953-54)
