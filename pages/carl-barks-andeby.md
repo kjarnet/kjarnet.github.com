@@ -106,7 +106,7 @@ Det gamle slottets hemmelighet (1947-48)
 - Jakt etter penger
 - Donald som golfmester
 
-Eggmysteriet (1948-49) (Ikke utkommet enda)
+Eggmysteriet (1948-49)
 ----------------------
 
 - Eggmysteriet :gem: :gem:
@@ -124,6 +124,21 @@ Eggmysteriet (1948-49) (Ikke utkommet enda)
 - Ekko, vil du svare meg? :gem:
 - Kjæledegger
 - Sterke-Tor
+
+Donald Duck på Grønland (1949-50) (Ikke utkommet enda)
+---------------------------------
+
+- Donald Duck på Grønland
+- Voodoo Hoodoo :gem: :gem:
+- Froskekongen
+- Ønskekvisten
+- Gullhår og bjørnene
+- Kappseilas til Sydhavet
+- Brevet til julenissen
+- Gamle kjærlighetsbrev
+- Nye leker
+- 40 års søvn
+- I totempælenes land
 
 
 Tralla La (1953-54)
