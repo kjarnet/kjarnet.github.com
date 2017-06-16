@@ -16,6 +16,24 @@ Jeg har merket mine personlige favoritter med :gem:.
 :gem: Favoritter   
 :mortar_board: Petter Smart
 
+Mumiens ring (1942-44)
+----------------------
+
+- Sjørøvergull
+- Parselldyrkeren
+- Lykken er en harelabb
+- Livredderen
+- En dag for gode gjerninger
+- Store stifinner
+- Den store pelsjegeren
+- Mumiens ring :gem:
+- Dårlig taper
+- For mange kjæledegger
+- Gode naboer :gem:
+- Dørselgeren
+- Vinterglede :gem:
+- Rustet til kamp
+
 Mysteriet i Surklemarksumpene (1944-45)
 ---------------------------------------
 
