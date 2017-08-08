@@ -143,7 +143,7 @@ Eggmysteriet (1948-49)
 - Kjæledegger
 - Sterke-Tor
 
-Donald Duck på Grønland (1949-50) (Ikke utkommet enda)
+Donald Duck på Grønland (1949-50)
 ---------------------------------
 
 - Donald Duck på Grønland
@@ -152,12 +152,26 @@ Donald Duck på Grønland (1949-50) (Ikke utkommet enda)
 - Ønskekvisten
 - Gullhår og bjørnene
 - Kappseilas til Sydhavet
-- Brevet til julenissen
+- Brevet til julenissen :gem:
 - Gamle kjærlighetsbrev
 - Nye leker
-- 40 års søvn
+- 40 års søvn :gem:
 - I totempælenes land
 
+
+På spor etter enhjørningen (1950) (Ikke utkommet enda)
+---------------------------------
+
+- På spor etter enhjørningen
+- Tusenfryd
+- Teltturen
+- Tellepapegøyen
+- Leirlederen
+- Kan du gjette?
+- I det gamle Persia
+- Bestemor Duck får besøk fra byen
+- Det magiske timeglasset :gem:
+- Arvesmykket
 
 Tralla La (1953-54)
 -------------------
