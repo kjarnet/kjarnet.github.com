@@ -158,20 +158,40 @@ Donald Duck på Grønland (1949-50)
 - 40 års søvn :gem:
 - I totempælenes land
 
-
-På spor etter enhjørningen (1950) (Ikke utkommet enda)
+På spor etter enhjørningen (1950)
 ---------------------------------
 
 - På spor etter enhjørningen
 - Tusenfryd
-- Teltturen
+- Teltturen :gem:
 - Tellepapegøyen
 - Leirlederen
 - Kan du gjette?
 - I det gamle Persia
 - Bestemor Duck får besøk fra byen
-- Det magiske timeglasset :gem:
+- Det magiske timeglasset :gem: :gem:
 - Arvesmykket
+
+Pengeregn (1951) (Ikke utkommet enda)
+---------------------------------
+- Pengeregn
+- Farlig forkledning
+- Høysnue
+- Operasjon Snø
+- Sjøormen
+- Aprilsnarr
+- I det gamle California
+- Ridderkampen
+- Svømmebassenget
+- Sjeldne mynger
+- Golfkampen
+- Generalprøven
+- Skummel støvsugeragent
+- Skulkegjengen
+- Kanonvakten :gem:
+- Frosne penger
+- Kalkunlotteriet
+
 
 Tralla La (1953-54)
 -------------------
