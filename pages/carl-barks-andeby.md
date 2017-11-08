@@ -172,18 +172,18 @@ På spor etter enhjørningen (1950)
 - Det magiske timeglasset :gem: :gem:
 - Arvesmykket
 
-Pengeregn (1951) (Ikke utkommet enda)
----------------------------------
+Pengeregn (1951)
+----------------
 - Pengeregn
 - Farlig forkledning
 - Høysnue
 - Operasjon Snø
 - Sjøormen
 - Aprilsnarr
-- I det gamle California
+- I det gamle California :gem:
 - Ridderkampen
 - Svømmebassenget
-- Sjeldne mynger
+- Sjeldne mynter
 - Golfkampen
 - Generalprøven
 - Skummel støvsugeragent
@@ -192,6 +192,21 @@ Pengeregn (1951) (Ikke utkommet enda)
 - Frosne penger
 - Kalkunlotteriet
 
+Statuekampen (1952) (Ikke utkommet enda)
+----------------------------------------
+
+- Statuekampen
+- Jul i Pengelens
+- Viseforfatteren
+- Den lure onkel Skrue
+- Lille postbud, min due ...
+- Hell og uhell
+- Tenkeboksen
+- Husbåten
+- Gullhjelmen
+- Diamanten
+- Altfor mye penger
+- Det magentarøde frimerket
 
 Tralla La (1953-54)
 -------------------
