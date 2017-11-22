@@ -175,12 +175,12 @@ På spor etter enhjørningen (1950)
 Pengeregn (1951)
 ----------------
 - Pengeregn
-- Farlig forkledning
+- Farlig forkledning :gem: :gem:
 - Høysnue
 - Operasjon Snø
 - Sjøormen
 - Aprilsnarr
-- I det gamle California :gem:
+- I det gamle California
 - Ridderkampen
 - Svømmebassenget
 - Sjeldne mynter
