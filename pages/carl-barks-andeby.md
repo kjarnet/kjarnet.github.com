@@ -208,26 +208,6 @@ Statuekampen (1952)
 - Altfor mye penger
 - Det magentarøde frimerket
 
-Kong Skrue den første (Ikke utkommet enda)
------------------------------------------
-
-- Kong Skrue den første
-- I varulvens gruve
-- Den rette jobben
-- Konstabel for en dag
-- Svartskogen i fare
-- Livredderne
-- En kjempegod gjerning
-- Dårlig dag for patrulje A
-- Beinharde tider
-- Innsjøens redningsmann
-- En dag i et liv
-- Hurra for søppelgjengen
-- Lønn for strevet
-- Hevnen er sur
-- Operasjon Ørn
-- Stormende dansetrinn
-- Hunden fra Jammeråsen
 
 Tralla La (1953-54)
 -------------------
@@ -622,6 +602,25 @@ Skjønnhetsspesialisten (1966-67)
 - Kvegkongekvaler
 - Skjebnediamanter
 
+Kong Skrue den første (1967-1972) (Ikke utkommet enda)
+-----------------------------------------
 
+- Kong Skrue den første
+- I varulvens gruve
+- Den rette jobben
+- Konstabel for en dag
+- Svartskogen i fare
+- Livredderne
+- En kjempegod gjerning
+- Dårlig dag for patrulje A
+- Beinharde tider
+- Innsjøens redningsmann
+- En dag i et liv
+- Hurra for søppelgjengen
+- Lønn for strevet
+- Hevnen er sur
+- Operasjon Ørn
+- Stormende dansetrinn
+- Hunden fra Jammeråsen
 
 
