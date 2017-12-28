@@ -192,21 +192,42 @@ Pengeregn (1951)
 - Frosne penger
 - Kalkunlotteriet
 
-Statuekampen (1952) (Ikke utkommet enda)
-----------------------------------------
+Statuekampen (1952)
+-------------------
 
 - Statuekampen
-- Jul i Pengelens
+- Jul i Pengelens :gem:
 - Viseforfatteren
 - Den lure onkel Skrue
 - Lille postbud, min due ...
 - Hell og uhell
 - Tenkeboksen
 - Husbåten
-- Gullhjelmen
+- Gullhjelmen :gem:
 - Diamanten
 - Altfor mye penger
 - Det magentarøde frimerket
+
+Kong Skrue den første (Ikke utkommet enda)
+-----------------------------------------
+
+- Kong Skrue den første
+- I varulvens gruve
+- Den rette jobben
+- Konstabel for en dag
+- Svartskogen i fare
+- Livredderne
+- En kjempegod gjerning
+- Dårlig dag for patrulje A
+- Beinharde tider
+- Innsjøens redningsmann
+- En dag i et liv
+- Hurra for søppelgjengen
+- Lønn for strevet
+- Hevnen er sur
+- Operasjon Ørn
+- Stormende dansetrinn
+- Hunden fra Jammeråsen
 
 Tralla La (1953-54)
 -------------------
