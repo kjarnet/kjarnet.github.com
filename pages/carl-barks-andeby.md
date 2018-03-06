@@ -602,8 +602,8 @@ Skjønnhetsspesialisten (1966-67)
 - Kvegkongekvaler
 - Skjebnediamanter
 
-Kong Skrue den første (1967-1972) (Ikke utkommet enda)
------------------------------------------
+Kong Skrue den første (1967-1972)
+---------------------------------
 
 - Kong Skrue den første
 - I varulvens gruve
@@ -622,5 +622,24 @@ Kong Skrue den første (1967-1972) (Ikke utkommet enda)
 - Operasjon Ørn
 - Stormende dansetrinn
 - Hunden fra Jammeråsen
+
+Søppeldragen (1972-1994) (Ikke utkommet enda)
+------------------------
+
+- Søppeldragen
+- Katastrofal klatretur
+- Når krybben er tom, bites hestene
+- Katastrofer i kø
+- Så samles vi på hvalen
+- Ingen røyk uten ild
+- Tesalongen Kjøkkendragen
+- Lokking og luring
+- Ingen tryllekunst
+- Tungvekter slår til
+- Mellom barken og arken
+- Superskipperne
+- Bløtkakeprinsen
+- Renn sakte, tidens sand
+- Historien gjentar seg
 
 
