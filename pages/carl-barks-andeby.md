@@ -12,7 +12,9 @@ Liste over alle historiene
 i Egmonts fantastiske serie [Carl Barks' Andeby](http://carlbarks.no) ([facebook](https://www.facebook.com/CarlBarksAndeby)).
 
 Først og fremst for min egen del,
-men kanskje andre kan ha nytte av det og :)
+men kanskje andre kan ha nytte av det og -
+legg isåfall gjerne igjen en liten kommentar nederst
+:raised_hands:
 
 :gem: Favoritter   
 :mortar_board: Petter Smart
@@ -643,4 +645,10 @@ Søppeldragen (1972-1994)
 - Renn sakte, tidens sand
 - Historien gjentar seg
 
+******
+
+Kommentarer
+-----------
+
+{% include JB/comments %}
 
