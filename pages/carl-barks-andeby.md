@@ -8,10 +8,11 @@ description: "Innholdsfortegnelse for alle bøkene"
 Carl Barks Andeby
 =================
 
-Her har jeg samlet innholdsfortegnelsene for alle bøkene
-i Egmonts fantastiske serie [Carl Barks' Andeby](http://carlbarks.no) ([facebook](https://www.facebook.com/CarlBarksAndeby))
-(under arbeid).
-Jeg har merket mine personlige favoritter med :gem:.
+Liste over alle historiene
+i Egmonts fantastiske serie [Carl Barks' Andeby](http://carlbarks.no) ([facebook](https://www.facebook.com/CarlBarksAndeby)).
+
+Først og fremst for min egen del,
+men kanskje andre kan ha nytte av det og :)
 
 :gem: Favoritter   
 :mortar_board: Petter Smart
@@ -623,7 +624,7 @@ Kong Skrue den første (1967-1972)
 - Stormende dansetrinn
 - Hunden fra Jammeråsen
 
-Søppeldragen (1972-1994) (Ikke utkommet enda)
+Søppeldragen (1972-1994)
 ------------------------
 
 - Søppeldragen
